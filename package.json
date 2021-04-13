@@ -1,0 +1,22 @@
+{
+  "name": "quizone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavipaliya11/quizone.git"
+  },
+  "author": "vaishnavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavipaliya11/quizone/issues"
+  },
+  "homepage": "https://github.com/vaishnavipaliya11/quizone#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
